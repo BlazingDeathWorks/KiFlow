@@ -282,7 +282,7 @@ def show_execute_window():
 
 
 dpg.create_context()
-dpg.create_viewport(title="KiFlow")
+dpg.create_viewport(title="KiFlow", min_width=600)
 dpg.setup_dearpygui()
 
 # Global Variables
