@@ -296,6 +296,8 @@ preset_group: int | str = None
 with dpg.viewport_menu_bar():
     with dpg.menu(label="File"):
         dpg.add_menu_item(label="Quit")
+    with dpg.menu(label="Edit"):
+        pass
     with dpg.menu(label="Window"):
         dpg.add_menu_item(label="Execute", callback=show_execute_window)
 
