@@ -1,0 +1,328 @@
+1666740177858	geckodriver	INFO	Listening on 127.0.0.1:64462
+1666740180992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofileaah3Ay"
+1666740181356	Marionette	INFO	Marionette enabled
+1666740181361	Marionette	INFO	Listening on port 64474
+WebDriver BiDi listening on ws://127.0.0.1:64463
+Read port: 64474
+1666740181547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofileaah3Ay\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64463/devtools/browser/91198bef-1d10-46c6-bdd7-0309c073802d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+1666740200629	Marionette	INFO	Stopped listening on port 64474
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1666746097568	geckodriver	INFO	Listening on 127.0.0.1:54283
+1666746100631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54284" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofilevldJ7B"
+1666746100970	Marionette	INFO	Marionette enabled
+1666746100974	Marionette	INFO	Listening on port 54293
+WebDriver BiDi listening on ws://127.0.0.1:54284
+Read port: 54293
+1666746101179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofilevldJ7B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54284/devtools/browser/c8144f16-ccfa-42ef-aa20-51a1e261c5e6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+1666746181083	Marionette	INFO	Stopped listening on port 54293
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667111448698	geckodriver	INFO	Listening on 127.0.0.1:64575
+1667111451768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofile2yoLmS"
+1667111452119	Marionette	INFO	Marionette enabled
+1667111452123	Marionette	INFO	Listening on port 64586
+WebDriver BiDi listening on ws://127.0.0.1:64576
+Read port: 64586
+1667111452359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofile2yoLmS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64576/devtools/browser/4c27ced9-ed2c-4349-8b1d-9bb65f22f87f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+JavaScript error: https://d2nk2vyhlnep33.cloudfront.net/login/1.1.0-8ee64fe/build/static/js/main.0bf9581b.chunk.js, line 2: TypeError: e is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1667111486491	Marionette	INFO	Stopped listening on port 64586
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1667111522118	geckodriver	INFO	Listening on 127.0.0.1:65151
+1667111525185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65152" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofile9ctCQV"
+1667111525560	Marionette	INFO	Marionette enabled
+1667111525564	Marionette	INFO	Listening on port 65161
+WebDriver BiDi listening on ws://127.0.0.1:65152
+Read port: 65161
+1667111525774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofile9ctCQV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65152/devtools/browser/00a9774d-75bb-4392-ace1-1dc0d81ea7d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+1667111603565	Marionette	INFO	Stopped listening on port 65161
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667150066305	geckodriver	INFO	Listening on 127.0.0.1:51189
+1667150069366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofilezXH7ww"
+1667150069702	Marionette	INFO	Marionette enabled
+1667150069706	Marionette	INFO	Listening on port 51199
+WebDriver BiDi listening on ws://127.0.0.1:51190
+Read port: 51199
+1667150069919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofilezXH7ww\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51190/devtools/browser/fae4a135-ce01-4076-abd9-94a4e14ae0fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1667150104480	Marionette	INFO	Stopped listening on port 51199
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1667150220819	geckodriver	INFO	Listening on 127.0.0.1:51787
+1667150223907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofileDeYH56"
+1667150224258	Marionette	INFO	Marionette enabled
+1667150224262	Marionette	INFO	Listening on port 51798
+WebDriver BiDi listening on ws://127.0.0.1:51788
+Read port: 51798
+1667150224470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofileDeYH56\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51788/devtools/browser/da644d7e-fd0f-4b4b-82ac-405e6e349a80
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+1667150260106	Marionette	INFO	Stopped listening on port 51798
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667150365530	geckodriver	INFO	Listening on 127.0.0.1:52843
+1667150368602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofileJeIape"
+1667150368946	Marionette	INFO	Marionette enabled
+1667150368950	Marionette	INFO	Listening on port 52853
+WebDriver BiDi listening on ws://127.0.0.1:52844
+Read port: 52853
+1667150369167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofileJeIape\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52844/devtools/browser/cde4c0d3-fd58-4938-85a0-e372842aa760
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 575: NS_ERROR_PORT_ACCESS_NOT_ALLOWED: 
+JavaScript warning: https://c.paypal.com/da/r/fb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+1667150634422	Marionette	INFO	Stopped listening on port 52853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667150657623	geckodriver	INFO	Listening on 127.0.0.1:53630
+1667150660698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofilezZlPOR"
+1667150661033	Marionette	INFO	Marionette enabled
+1667150661037	Marionette	INFO	Listening on port 53640
+Read port: 53640
+WebDriver BiDi listening on ws://127.0.0.1:53631
+1667150661122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofilezZlPOR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53631/devtools/browser/2f03a027-a507-4a43-893b-a72641ef6335
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 575: NS_ERROR_PORT_ACCESS_NOT_ALLOWED: 
+JavaScript warning: https://c.paypal.com/da/r/fb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+1667150755027	Marionette	INFO	Stopped listening on port 53640
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667155045709	geckodriver	INFO	Listening on 127.0.0.1:51795
+1667155048789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51796" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofile7QTpTl"
+1667155049132	Marionette	INFO	Marionette enabled
+1667155049136	Marionette	INFO	Listening on port 51805
+WebDriver BiDi listening on ws://127.0.0.1:51796
+Read port: 51805
+1667155049350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shuns\\AppData\\Local\\Temp\\rust_mozprofile7QTpTl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51796/devtools/browser/3fb36ed5-e514-4730-9996-bcd05c902eb4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.doordash.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 575: NS_ERROR_PORT_ACCESS_NOT_ALLOWED: 
+JavaScript warning: https://c.paypal.com/da/r/fb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web-apps.cdn4dd.com/webapps/app-consumer-web-next/50afe9c44a275ba588174a334047f5905352aee9/ssr-static-assets/_next/static/chunks/2536-13d63c92139992e2.js, line 1: WebGL context was lost.
+1667155113405	Marionette	INFO	Stopped listening on port 51805
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
