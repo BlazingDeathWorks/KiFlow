@@ -85,6 +85,7 @@ def delete_previous_node():
 
 
 def save_preset():
+    global preset_group_children
     # Input Check
     if (len(str.strip(dpg.get_value(name_node))) == 0 or len(str.strip(dpg.get_value(url_node))) == 0):
         return
@@ -117,8 +118,9 @@ def save_preset():
 
     # Create Preset
     if (not os.path.exists(PRESETS_FOLDER_PATH + str(dpg.get_value(name_node)) + ".json")):
-        dpg.add_button(label=str(dpg.get_value(name_node)), callback=lambda: start_automation(
-            str(dpg.get_value(name_node))), width=150, height=50, parent=preset_group)
+        dpg.add_button(label=str(dpg.get_value(
+            name_node)), callback=start_automation, width=150, height=50, parent=preset_group)
+        preset_group_children = dpg.get_item_children(preset_group)
 
     # Save JSON to File
     preset = Preset(dpg.get_value(url_node), orders)
@@ -202,7 +204,11 @@ def execute():
     DoordashUtil.define_click_link(driver, "data-anchor-id", "CheckoutButton")
 
 
-def start_automation(preset_name: str):
+def start_automation():
+    for child in preset_group_children[1]:
+        if (dpg.get_item_state(child)["focused"] == True):
+            preset_name = dpg.get_item_label(child)
+
     # Retrieve Account Info
     f = open(dpg.get_value(SAVED_ACCOUNT_PATH), 'rt')
     gmail = f.readline().strip()
@@ -291,6 +297,7 @@ major_node: int | str = None
 placed_nodes: list[int | str] = []
 amount_node: int | str = None
 preset_group: int | str = None
+preset_group_children: dict = {}
 
 # Menu Bar
 with dpg.viewport_menu_bar():
@@ -341,8 +348,9 @@ with dpg.window(label="Presets", width=167, height=300, pos=[0, 0], autosize=Tru
     for file in os.scandir(PRESETS_FOLDER_PATH):
         if (file.is_file()):
             filename = file.name.replace(".json", '')
-            dpg.add_button(label=filename, callback=lambda: start_automation(
-                filename), width=150, height=50, parent=preset_group)
+            dpg.add_button(label=filename, callback=start_automation,
+                           width=150, height=50, parent=preset_group)
+            preset_group_children = dpg.get_item_children(preset_group)
 
 dpg.show_viewport()
 dpg.start_dearpygui()
