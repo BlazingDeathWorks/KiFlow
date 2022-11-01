@@ -1,0 +1,16 @@
+{
+    "url": "https://www.doordash.com/store/boba-bliss-dublin-2661572/?cursor=eyJzdG9yZV92ZXJ0aWNhbF9pZCI6bnVsbCwic2VhcmNoX2l0ZW1fY2Fyb3VzZWxfY3Vyc29yIjp7InF1ZXJ5IjoiYm9iYSBibGlzcyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJib2JhIGJsaXNzIiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJpc19zaWJsaW5nIjpmYWxzZSwiZm9yY2Vfc3RvcmVfYXZhaWxhYmlsaXR5X3YyIjpmYWxzZX0=&pickup=true",
+    "orders": [
+        {
+            "item": "Assam Black Tea",
+            "toppings": [
+                "100%",
+                "Organic",
+                "Less Ice",
+                "Boba",
+                "Grass Jelly",
+                "2"
+            ]
+        }
+    ]
+}
